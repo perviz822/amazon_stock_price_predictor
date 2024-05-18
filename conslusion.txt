@@ -1,1 +1,0 @@
-Linear regression model for non-stationary data is clearly  overfitting and is not  good for this type of time series. Next i will try to use arima model

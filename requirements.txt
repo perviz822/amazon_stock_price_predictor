@@ -42,3 +42,4 @@ packaging==24.0
 pandas==2.2.2
 parso==0.8.4
 patsy==0.5.
+scikit-learn ==1.4.2
